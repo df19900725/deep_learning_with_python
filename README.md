@@ -21,3 +21,12 @@ Currently, this project contains examples as follows:
 
 This script is an example of embedding layer using TensorFlow.
 
+*layer_example/tf_rnn_cell_example.py*
+
+This script is an example of SimpleRNNCell layer using TensorFlow.
+
+*layer_example/tf_encoder_example.py*
+
+This script is an example of SimpleRNN layer using TensorFlow (Keras).
+
+
